@@ -1,5 +1,5 @@
 {
-  "name": "jwt_api",
+  "name": "jwtapi",
   "version": "1.0.0",
   "description": "json web token",
   "main": "index.js",
